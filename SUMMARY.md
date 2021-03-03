@@ -14,6 +14,7 @@
 ## People
 
 * [Admiration](people/admiration.md)
+* [A place to call home](people/a-place-to-call-home.md)
 * [ചുരുണ്ടുകൂടാനുള്ള ഇടങ്ങൾ \| Cosy Spaces](people/cosy-spaces.md)
 
 ## Poems
