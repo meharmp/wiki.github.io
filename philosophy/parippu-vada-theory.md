@@ -6,7 +6,7 @@ Nobody had a clue, then eby said that will be the most കരിഞ്ഞ പര
 
 Everyone was curious about this and asked me why, and my philosophy was it was not parippuvadas fault that it became overcooked and somebody need to eat that, I can be that somebody because none of you will choose it.
 
-Eby made up this story about me, because the girl I was dating before that and all my crushes were the least good looking ones in a group of girls. Kaheenam girls they call for not so great-looking people.
+Eby made up this story about me, because the girl I was dating before that and all my crushes were the least good looking ones in a group of girls. Ksheenam girls they call for not so great-looking people.
 
 Hence the theory named as mehar's parilpuvada theory of ksheenam girls.
 
