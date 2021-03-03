@@ -27,3 +27,7 @@
 
 ## Quotes
 
+## Political
+
+* [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
+
