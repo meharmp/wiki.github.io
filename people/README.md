@@ -1,5 +1,5 @@
 ---
-description: Figuring out relationships
+description: understanding others & Figuring out relationships
 ---
 
 # People

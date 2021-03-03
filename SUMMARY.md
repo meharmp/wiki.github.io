@@ -4,9 +4,9 @@
 * [Digital Garden](digital-garden.md)
 * [People](people/README.md)
   * [A place to call home](people/a-place-to-call-home.md)
+  * [The five people around you](people/the-five-people-around-you.md)
   * [Controlling Partners \| കലിപ്പൻ 💕 കാന്താരി](people/controlling-partners-or.md)
   * [Move out](people/move-out.md)
-  * [The five people around you](people/the-five-people-around-you.md)
   * [Admiration](people/admiration.md)
 * [Contact](contact.md)
 
