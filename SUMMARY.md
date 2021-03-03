@@ -34,3 +34,7 @@
 
 * [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
 
+## Community
+
+* [Rethinking Mementos & Gifts](community/rethinking-mementos-and-gifts.md)
+
