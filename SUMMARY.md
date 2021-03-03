@@ -2,12 +2,12 @@
 
 * [Kinassery \| Mehar's Digital Garden](README.md)
 * [Digital Garden](digital-garden.md)
-* [People](people-1/README.md)
-  * [A place to call home](people-1/a-place-to-call-home.md)
-  * [Controlling Partners \| കലിപ്പൻ 💕 കാന്താരി](people-1/controlling-partners-or.md)
-  * [Move out](people-1/move-out.md)
-  * [The five people around you](people-1/the-five-people-around-you.md)
-  * [Admiration](people-1/admiration.md)
+* [People](people/README.md)
+  * [A place to call home](people/a-place-to-call-home.md)
+  * [Controlling Partners \| കലിപ്പൻ 💕 കാന്താരി](people/controlling-partners-or.md)
+  * [Move out](people/move-out.md)
+  * [The five people around you](people/the-five-people-around-you.md)
+  * [Admiration](people/admiration.md)
 * [Contact](contact.md)
 
 ## Social Change
