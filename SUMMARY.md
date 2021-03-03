@@ -7,6 +7,7 @@
 ## Social Change
 
 * [Building a change in your society](social-change/building-a-change-in-your-society.md)
+* [Volunteering](social-change/volunteering.md)
 
 ## Emotional Intelligence
 
@@ -24,6 +25,4 @@
 * [Possibilities](philosophy/possibilities.md)
 
 ## Quotes
-
-* [Volunteering](quotes/volunteering.md)
 
