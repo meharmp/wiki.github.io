@@ -10,5 +10,7 @@
 
 ## Emotional Intelligence
 
-* [Untitled](emotional-intelligence/untitled.md)
+## People
+
+* [Admiration](people/admiration.md)
 
