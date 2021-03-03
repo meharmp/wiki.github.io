@@ -4,3 +4,11 @@
 * [Digital Garden](digital-garden.md)
 * [Contact](contact.md)
 
+## Social Change
+
+* [Building a change in your society](social-change/building-a-change-in-your-society.md)
+
+## Emotional Intelligence
+
+* [Untitled](emotional-intelligence/untitled.md)
+
