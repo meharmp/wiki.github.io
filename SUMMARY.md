@@ -13,7 +13,7 @@
 ## People
 
 * [Admiration](people/admiration.md)
-* [ചുരുണ്ടുകൂടാനുള്ള ഇടങ്ങൾ \| Cosy Spaces](people/undefined.md)
+* [ചുരുണ്ടുകൂടാനുള്ള ഇടങ്ങൾ \| Cosy Spaces](people/cosy-spaces.md)
 
 ## Poems
 
