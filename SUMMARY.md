@@ -13,6 +13,7 @@
 ## People
 
 * [Admiration](people/admiration.md)
+* [ചുരുണ്ടുകൂടാനുള്ള ഇടങ്ങൾ](people/undefined.md)
 
 ## Poems
 
