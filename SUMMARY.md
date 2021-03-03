@@ -24,6 +24,7 @@
 ## Philosophy
 
 * [Possibilities](philosophy/possibilities.md)
+* [Parippu vada theory](philosophy/parippu-vada-theory.md)
 
 ## Quotes
 
