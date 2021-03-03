@@ -1,5 +1,7 @@
 # നഗര സന്ധ്യകൾ \| City nights
 
+![View from roof top bar during malesian visit](../.gitbook/assets/img_20200205_215638.jpg)
+
 When was the last time you were in a rooftop pub? 
 
 Friday nights were still reserved for young and stupid
