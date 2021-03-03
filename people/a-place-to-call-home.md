@@ -6,7 +6,7 @@ Just before this lockdown came to Kozhikode. Staying with family feels so good. 
 
 It was raining here tonight, it feels so good to be alive. Completed this small piece have a read. 
 
-{% page-ref page="../cosy-spaces.md" %}
+{% page-ref page="../poems/cosy-spaces.md" %}
 
 
 
