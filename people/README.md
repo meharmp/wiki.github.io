@@ -10,3 +10,5 @@ From the time I figured how how my emotions are working, I was really really cur
 
 Figuring out ourselves and figuring out others \( Relationships \) became my favourite thing to hear, to discuss and share experiences.  
 
+**This section of garden primarily deals with notes about how do i see people, my reflections on different kinds relationships and experiences people shared with me.**
+
