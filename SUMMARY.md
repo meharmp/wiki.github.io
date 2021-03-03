@@ -16,6 +16,7 @@
 * [Admiration](people/admiration.md)
 * [A place to call home](people/a-place-to-call-home.md)
 * [Controlling Partners \| കലിപ്പൻ 💕 കാന്താരി](people/controlling-partners-or.md)
+* [Move out](people/move-out.md)
 
 ## Poems
 
