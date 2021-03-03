@@ -2,7 +2,7 @@
 
 A couple of years back, we were sitting near a shop after college hours. The shop was a Baji Kada that makes hot evening snacks. Eby asked everyone "out of all the parippu vadas, which one Mehar will choose"
 
-Nobody had a clue, then eby said that will be the most കറിഞ്ഞ പരിപ്പുവട \( overcooked cookie \)
+Nobody had a clue, then eby said that will be the most കരിഞ്ഞ പരിപ്പുവട \( overcooked cookie \)
 
 Everyone was curious about this and asked me why, and my philosophy was it was not parippuvadas fault that it became overcooked and somebody need to eat that, I can be that somebody because none of you will choose it.
 
