@@ -18,3 +18,7 @@
 
 * [നഗര സന്ധ്യകൾ \| City nights](poems/or-city-nights.md)
 
+## Philosophy
+
+* [Possibilities](philosophy/possibilities.md)
+
