@@ -7,7 +7,7 @@
   * [A place to call home](people/a-place-to-call-home.md)
   * [The five people around you](people/the-five-people-around-you.md)
   * [Controlling Partners \| കലിപ്പൻ 💕 കാന്താരി](people/controlling-partners-or.md)
-  * [Move out](people/move-out.md)
+  * [Move out 🏙](people/move-out.md)
   * [Admiration](people/admiration.md)
 * [Social Change](social-change/README.md)
   * [Building a change in your society](social-change/building-a-change-in-your-society.md)
