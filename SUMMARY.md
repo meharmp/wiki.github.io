@@ -22,4 +22,5 @@
   * [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
 * [Community](community/README.md)
   * [Rethinking Mementos & Gifts](community/rethinking-mementos-and-gifts.md)
+* [Work](work.md)
 
