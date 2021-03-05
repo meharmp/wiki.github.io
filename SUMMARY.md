@@ -24,4 +24,5 @@
   * [Rethinking Mementos & Gifts](community/rethinking-mementos-and-gifts.md)
 * [Work](work.md)
 * [Memes \| ചളികൾ](memes-or.md)
+* [Product Ideas](product-ideas.md)
 
