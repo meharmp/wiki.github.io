@@ -18,6 +18,7 @@
   * [ചുരുണ്ടുകൂടാനുള്ള ഇടങ്ങൾ \| Cosy Spaces](poems/cosy-spaces.md)
 * [Philosophy](philosophy/README.md)
   * [Possibilities](philosophy/possibilities.md)
+  * [Start with Why](philosophy/start-with-why.md)
 * [Political](political/README.md)
   * [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
 * [Community](community/README.md)
