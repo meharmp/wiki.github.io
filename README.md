@@ -22,7 +22,7 @@ Build apps for Blackberry app world. Bagged some awards limited Edition phones a
 
 I was running Incubators and Accelerators as part of the [Kerala Startup Mission \(KSUM\)](https://startupmission.kerala.gov.in/). Resigned after 3 years with KSUM and moved full time with TinkerHub Foundation in the mid of 2018.
 
-[Technology Innovation Fellowship program](https://meharmp.medium.com/paid-to-dream-my-journey-as-a-fellow-of-kerala-startup-mission-152f60edfcd6) by Kerala Startup Mission, Kairos Fellowship for young startup entrepreneurs, Global Youth Forum, Global Cooperative Entrepreneurship \(Mentor\) are some of the programs I was part of. Headstart Network to support startup entrepreneurs is my major volunteering experience.
+Technology Innovation Fellowship program by Kerala Startup Mission, Kairos Fellowship for young startup entrepreneurs, Global Youth Forum, Global Cooperative Entrepreneurship \(Mentor\) are some of the programs I was part of. Headstart Network to support startup entrepreneurs is my major volunteering experience.
 
 
 
