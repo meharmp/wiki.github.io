@@ -1,3 +1,7 @@
+---
+description: Planck's principle
+---
+
 # Science progresses one funeral at a time
 
 ![](../.gitbook/assets/image%20%282%29.png)
