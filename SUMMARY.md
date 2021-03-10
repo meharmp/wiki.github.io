@@ -19,6 +19,7 @@
 * [Philosophy](philosophy/README.md)
   * [Possibilities](philosophy/possibilities.md)
   * [Start with Why](philosophy/start-with-why.md)
+  * [Science progresses one funeral at a time](philosophy/science-progresses-one-funeral-at-a-time.md)
 * [Political](political/README.md)
   * [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
 * [Community](community/README.md)
