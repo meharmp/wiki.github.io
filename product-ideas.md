@@ -16,3 +16,11 @@ I wish to see a free / minimal cost tool to do this. Right now I open telegram i
 
 Most of the times, people find it hard to believe in themself that they have enough of skills or done enough things to be ready to apply for a job. A check list that they can refer to make basics ready would be helpful. 
 
+Update: Found this interesting tool made by a MEC Alumni. [Really Confused](https://reallyconfused.co)
+
+### Android TV Dashboard Tool
+
+We have an adroid TV in flat. I needed that to be used for work needs. An adroid TV app that could load a specific webpage will do the work. If there is an option to have a list of pages and manage that from the backend it will be cool. I could use the big screen to have a look at the dashbords I have made. 
+
+
+
