@@ -24,3 +24,9 @@ We have an adroid TV in flat. I needed that to be used for work needs. An adroid
 
 
 
+## Get paid / Lets collaborate
+
+If you are keen on building any of these, I could find funding if you want to build that for me or i'm open to become co-founder for any of this project. Lets do this together, let me know. 
+
+
+
