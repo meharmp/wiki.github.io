@@ -1,3 +1,9 @@
+---
+description: >-
+  Product that I needed. I think there will be more people who has similar
+  needs.
+---
+
 # Product Ideas
 
 I have seen a lot of great teams got lost by solving a problem that not exists. Finding a good problem that people find it so painful, happy to pay for a solution is the key in building a great product. When you try to find a problem some ways so that you could make a solution and sell it off, most of the time it wont work.
