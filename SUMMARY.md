@@ -28,6 +28,7 @@
     * [Hope](philosophy/thoughts/hope.md)
     * [Plan B](philosophy/thoughts/plan-b.md)
     * [Thought Clarity](philosophy/thoughts/thought-clarity.md)
+    * [Fate](philosophy/thoughts/fate.md)
 * [Political](political/README.md)
   * [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
 * [Community](community/README.md)
