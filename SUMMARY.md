@@ -31,6 +31,7 @@
     * [Thought Clarity](philosophy/thoughts/thought-clarity.md)
     * [Fate](philosophy/thoughts/fate.md)
     * [Time is a healer thing](philosophy/thoughts/time-is-a-healer-thing.md)
+    * [Gratitude](philosophy/thoughts/gratitude.md)
 * [Political](political/README.md)
   * [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
 * [Community](community/README.md)
