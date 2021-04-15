@@ -19,6 +19,7 @@
   * [നഗര സന്ധ്യകൾ \| City nights](poems/or-city-nights.md)
   * [ചുരുണ്ടുകൂടാനുള്ള ഇടങ്ങൾ \| Cosy Spaces](poems/cosy-spaces.md)
   * [When your favourite artist dies](poems/when-your-favourite-artist-dies.md)
+  * [Curl up to someone](poems/curl-up-to-someone.md)
   * [Letter to T](poems/letter-to-t.md)
   * [Gazals](poems/gazals/README.md)
     * [Rafta rafta](poems/gazals/rafta-rafta.md)
