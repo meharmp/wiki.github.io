@@ -19,6 +19,7 @@
   * [നഗര സന്ധ്യകൾ \| City nights](poems/or-city-nights.md)
   * [ചുരുണ്ടുകൂടാനുള്ള ഇടങ്ങൾ \| Cosy Spaces](poems/cosy-spaces.md)
   * [Gazals](poems/gazals/README.md)
+    * [Letter to T](poems/gazals/letter-to-t.md)
     * [Rafta rafta](poems/gazals/rafta-rafta.md)
 * [Philosophy](philosophy/README.md)
   * [Possibilities](philosophy/possibilities.md)
