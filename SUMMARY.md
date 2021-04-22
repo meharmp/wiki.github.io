@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Kinassery \| Mehar's Digital Garden](README.md)
+* [Intro - About Myself - Mehar](intro-about-myself-mehar.md)
 * [Digital Garden](digital-garden.md)
 * [Contact](contact.md)
 * [People](people/README.md)

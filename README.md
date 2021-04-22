@@ -6,23 +6,19 @@ description: >-
 
 # Kinassery \| Mehar's Digital Garden
 
-"Ideas are perishables"
+എല്ലാർക്കും മനസിൽ ഒരു സമത്വ സുന്ദര ഭാരതം കാണില്ലേ, നമ്മളുടെ മനസ്സിൽ ശരിയെന്നു തോന്നുന്ന, നമ്മൾക്കു മതിയായ അളവിൽ സ്വാതന്ത്ര്യമുള്ള ഒരു സ്ഥലം. ഓരോരുത്തർക്കും ഓരോരോ ഭാവന ആയിരിക്കും അങ്ങനത്തെ ഒരു സ്ഥലത്തെ പറ്റി. മദ്യപുഴകൾ ഒഴുകുന്ന ഹൂറിമാരുള്ള ഒരു സ്വർഗത്തെപ്പറ്റി പണ്ട് ഉസ്താദുമാർ പറയുന്നതോർക്കുന്നു. പിന്നെ വലുതായപ്പോൾ അങ്ങനെ മരിച്ചുപോയിട്ട് കിട്ടും എന്നതൊക്കെ വൻ റിസ്ക് ഏർപ്പാടാണെന്ന് തോന്നി.
+
+നമ്മൾ ഓരോരുത്തരും നമ്മൾക്ക് ശരിയെന്നു തോന്നുന്ന, നീതി നടപ്പയെന്നു ഉറപ്പുള്ള ഒരു ലോകത്ത് ജീവിക്കാൻ കൊതിക്കുന്നു, നമ്മൾ അറിയാതെ തന്നെ നാം അതിനായി പ്രയത്നിക്കുന്നു. യാത്രകൾ പോകുന്നതാണ് ജീവിതത്തിന്റെ യഥാർത്ഥ അർത്ഥം എന്ന് വിശ്വസിക്കുന്ന ഒരാൾ യാത്രപോകുന്നതിന്റെ കൂടെ തന്റെ സുഹൃത്തുക്കളെ അതിനായി പ്രേരിപ്പിക്കുകയും ചെയ്യുന്ന പോലെ.
+
+കിണാശ്ശേരി അത് പോലെ ഓരോരുത്തരുടെയും മനസിലെ സമത്വം സുന്ദര ലോകമാണ്. പല രീതിയിൽ നാം അതിനെ യാഥാർഥ്യമാക്കാൻ പരിശ്രമിച്ചുകൊണ്ടിരിക്കുന്നു. എന്റെ കിനാശ്ശേരിയെ പറ്റിയുള്ള ചിന്തകളും ആഗ്രഹങ്ങളുമാണ് ഞാൻ ഡിജിറ്റൽ ഗാർഡനിലൂടെയും പോഡ്കാസ്റ്റിലൂടെയും പങ്കുവെക്കാൻ ശ്രമിക്കുന്നത്.
+
+{% hint style="warning" %}
+## "Ideas are perishables"
 
 There are a lot of ideas that come to my mind, grows or dies over time. I wish to document some of them, mostly because I wanted to refer those with people I care about while conversing.
+{% endhint %}
 
-## Intro - About Myself - Mehar
 
-![](.gitbook/assets/081a9535.jpg)
-
-Hi, Mehar here from [TinkerHub](http://tinkerhub.org) is my most common way of introducing myself. That's my public identity these days. I see work as an extension of who am I, even though this is a personal space you could find a lot of things around the domain I work.
-
-I tried to be unique or at least not to fit in the systems. I never find doing anything that anyone else can do as an interesting thing, maybe I'm an original thinker I used to feel at times. I tried to do things that interest me at all points of my life. One lead to another. Organising FOSS events to College Tech Fest to world's largest web maker party - [Maker Party Kochi](https://medium.com/@meharmp/how-i-co-hosted-the-worlds-largest-web-maker-party-started-a-learning-culture-maker-party-9d12719c33be) during college days.
-
-Build apps for Blackberry app world. Bagged some awards limited Edition phones and a decent amount through selling paid apps on store. This happened while I was in third year. Financially independent from that time onwards, made a [series of tweets](https://twitter.com/meharmp/status/1364046436346695680) about that recently. Check out the [Deccan Chronicle article ](https://www.deccanchronicle.com/141216/nation-current-affairs/article/kozhikode-youth-develops-secure-browser-app-blackberry)about my startup life. 
-
-I was running Incubators and Accelerators as part of the [Kerala Startup Mission \(KSUM\)](https://startupmission.kerala.gov.in/). Resigned after 3 years with KSUM and moved full time with TinkerHub Foundation in the mid of 2018.
-
-[Technology Innovation Fellowship program](https://meharmp.medium.com/paid-to-dream-my-journey-as-a-fellow-of-kerala-startup-mission-152f60edfcd6) by Kerala Startup Mission, Kairos Fellowship for young startup entrepreneurs, Global Youth Forum, Global Cooperative Entrepreneurship \(Mentor\) are some of the programs I was part of. Headstart Network to support startup entrepreneurs is my major volunteering experience.
 
 
 
