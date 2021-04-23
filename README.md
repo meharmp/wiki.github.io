@@ -12,7 +12,7 @@ description: >-
 
 കിണാശ്ശേരി അത് പോലെ ഓരോരുത്തരുടെയും മനസിലെ സമത്വം സുന്ദര ലോകമാണ്. പല രീതിയിൽ നാം അതിനെ യാഥാർഥ്യമാക്കാൻ പരിശ്രമിച്ചുകൊണ്ടിരിക്കുന്നു. എന്റെ കിനാശ്ശേരിയെ പറ്റിയുള്ള ചിന്തകളും ആഗ്രഹങ്ങളുമാണ് ഞാൻ ഡിജിറ്റൽ ഗാർഡനിലൂടെയും പോഡ്കാസ്റ്റിലൂടെയും പങ്കുവെക്കാൻ ശ്രമിക്കുന്നത്.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 ## "Ideas are perishables"
 
 There are a lot of ideas that come to my mind, grows or dies over time. I wish to document some of them, mostly because I wanted to refer those with people I care about while conversing.
