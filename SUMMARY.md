@@ -37,6 +37,7 @@
   * [Time is a healer thing](thoughts/time-is-a-healer-thing.md)
   * [Gratitude](thoughts/gratitude.md)
   * [Emotions Cloud](thoughts/emotions-cloud.md)
+  * [Prioritising Peace](thoughts/prioritising-peace.md)
 * [Political](political/README.md)
   * [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
 * [Community](community/README.md)
