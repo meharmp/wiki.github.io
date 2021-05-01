@@ -4,8 +4,8 @@ Different people persues inspiration in very different modes. By looking at the 
 
 ### Inpiring Projects
 
-* Menstrupedia
-* Goodnight stories for rebel girls
+* [Menstrupedia](https://www.menstrupedia.com)
+* [Goodnight stories for rebel girls](https://www.rebelgirls.com)
 * Cooperatives
 
 ### Inspiring Humans
