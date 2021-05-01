@@ -38,6 +38,7 @@
   * [Gratitude](thoughts/gratitude.md)
   * [Emotions Cloud](thoughts/emotions-cloud.md)
   * [Prioritising Peace](thoughts/prioritising-peace.md)
+* [Inspiration](inspiration.md)
 * [Political](political/README.md)
   * [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
 * [Community](community/README.md)
