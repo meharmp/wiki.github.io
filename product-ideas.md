@@ -26,11 +26,15 @@ Update: Found this interesting tool made by a MEC Alumni. [Really Confused](http
 
 ### Android TV Dashboard Tool
 
-We have an adroid TV in flat. I needed that to be used for work needs. An adroid TV app that could load a specific webpage will do the work. If there is an option to have a list of pages and manage that from the backend it will be cool. I could use the big screen to have a look at the dashbords I have made. 
+We have an android TV in flat. I needed that to be used for work needs. An android TV app that could load a specific webpage will do the work. If there is an option to have a list of pages and manage that from the backend it will be cool. I could use the big screen to have a look at the dashbords I have made. 
 
 ### WhatsApp Chat Viewer
 
 When you back up / export a chat to mail from whatsapp, it will be text file. When you try to open it, it will be really look like a log file and will be really hard to read. It will be great if there is a tool, that could read this file and arrange the conversation in the way we see inside whatsapp , so that we can read it easily like a conversation. 
+
+### Discord Meeting scheduler bot
+
+A bot that will schedule a meeting from discord chats & then sent event invitations to all people who agreed.
 
 
 
