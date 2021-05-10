@@ -12,7 +12,7 @@ When you start working / doing things , you will find a lot of pain points. Ther
 
 ### Link sharing tool
 
-A tool that can make a collection of links, like a link tree, and share that list with people.
+A tool that can make a collection of links, like a link tree, and share that list with people. The lists can be shared with a selected set of people only, not public.
 
 ### Mac Android Clipboard sharing tool
 
