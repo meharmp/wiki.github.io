@@ -41,6 +41,7 @@
 * [Inspiration](inspiration.md)
 * [Political](political/README.md)
   * [Sarfaroshi ki Tamanna](political/sarfaroshi-ki-tamanna.md)
+  * [Cast](political/cast.md)
 * [Community](community/README.md)
   * [Rethinking Mementos & Gifts](community/rethinking-mementos-and-gifts.md)
 * [Work](work.md)
