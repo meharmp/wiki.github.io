@@ -1,4 +1,4 @@
-# Project Ideas
+# Social Project Ideas
 
 There are a lot changes I wish to see in the world, like everbody else I also have a very limited time to invest in everything I like. Since I cant work full time on eveything I like to see, I could make it up by contributing to the misssion by other means. Like networks, a little bit of finantial aid and mentoring. 
 
