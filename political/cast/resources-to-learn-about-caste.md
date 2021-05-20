@@ -4,9 +4,9 @@
 
 {% embed url="https://www.youtube.com/watch?v=2xvW5hUObUQ" %}
 
-## A facebook page dedicated to explain reservation
+## A Facebook page dedicated to explaining the reservation
 
-You could find a set of great resrources in this [facebook page](https://www.facebook.com/reservationexplained/videos/?ref=page_internal)
+You could find a set of great resources in this [Facebook page](https://www.facebook.com/reservationexplained/videos/?ref=page_internal)
 
 
 

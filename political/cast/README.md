@@ -1,21 +1,21 @@
 # Caste
 
-Caste is something define indian society. Its worser than the colour in United States. Only single injustice i can think about bigger than caste in scale is gender. 
+## Caste is something that defines Indian society. It's worse than the colour in the United States. The only single injustice I can think about bigger than caste in scale is gender. 
 
-Even though I live in india, I  havent exprianced anything personally, because
+Even though I live in India, I haven't experienced anything personally, because
 
-1. I'm from Kerala, one of the most forward thiking & developed society in india.
-2. I born in a muslim family, there is no caste inside islam
+1. I'm from Kerala, one of the most forward-thinking & developed society in India.
+2. I born in a Muslim family, there is no caste inside Islam‌
 
-## Why makes caste so interesting for me
+##  Why makes caste so interesting for me
 
-Its the most subtle injustice for most of my peer group & biggest fator that defines why india like this even after 70 years of freedom. 
+It's the most subtle injustice for most of my peer group & the biggest factor that defines why India like this even after 70 years of freedom.
 
-Sometimes its so hard for me to explain these injustive to people, I will be wondering its so in and around you, why can't you just see that. 
+‌ Sometimes it's so hard for me to explain these injustices to people, I will be wondering it's so in and around you, why can't you just see that.
 
-Then I learned about privillages. Now each days, I'm reminded about my privillages. 
+‌ Then I learned about privileges. Now each day, I'm reminded about my privileges.
 
 ## Resources to learn about Caste
 
-Curating some of the resources that helped me to understand caste, thoght might be helpful for some people who cares to learn.
+Curating some of the resources that helped me to understand caste, thought might be helpful for some people who care to learn.
 
