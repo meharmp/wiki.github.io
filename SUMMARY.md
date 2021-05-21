@@ -24,6 +24,7 @@
   * [Gazals](poems/gazals/README.md)
     * [Rafta rafta](poems/gazals/rafta-rafta.md)
 * [Philosophy](philosophy/README.md)
+  * [Theory of relatability in real life](philosophy/theory-of-relatability-in-real-life.md)
   * [Possibilities](philosophy/possibilities.md)
   * [Start with Why](philosophy/start-with-why.md)
   * [Science progresses one funeral at a time](philosophy/science-progresses-one-funeral-at-a-time.md)
@@ -48,5 +49,6 @@
 * [Work](work.md)
 * [Memes \| ചളികൾ &  Fun](memes-or.md)
 * [Tech Product Ideas](product-ideas.md)
-* [Social Project Ideas](project-ideas.md)
+* [Social Project Ideas](project-ideas/README.md)
+  * [Rebel Girls Desi version](project-ideas/rebel-girls-desi-version.md)
 
