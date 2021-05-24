@@ -50,5 +50,6 @@
 * [Memes \| ചളികൾ &  Fun](memes-or.md)
 * [Tech Product Ideas](product-ideas.md)
 * [Social Project Ideas](project-ideas/README.md)
-  * [Rebel Girls Desi version](project-ideas/rebel-girls-desi-version.md)
+  * [Good Night Stories for Rebel Girls](project-ideas/rebel-girls-desi-version/README.md)
+    * [The Indian version plan](project-ideas/rebel-girls-desi-version/the-indian-version-plan.md)
 

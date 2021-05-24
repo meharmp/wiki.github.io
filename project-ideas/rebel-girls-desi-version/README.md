@@ -1,6 +1,6 @@
-# Rebel Girls Desi version
+# Good Night Stories for Rebel Girls
 
-![Reble girls Book &amp; Postcard I bought for nieces.](../.gitbook/assets/img_20200905_095914-1-.jpg)
+![Reble girls Book &amp; Postcard I bought for nieces.](../../.gitbook/assets/img_20200905_095914-1-.jpg)
 
 [Good Night Stories for Rebel Girls](https://www.rebelgirls.com/) is one of my all-time favourite social projects. It's a collection of stories of amazing women & their work in a good night story format.
 
@@ -26,7 +26,7 @@ The book & the project is already a success. The core principles that made the s
 
 When 'people like us' do things, we tend to do believe that we too can do that.
 
-{% page-ref page="../philosophy/theory-of-relatability-in-real-life.md" %}
+{% page-ref page="../../philosophy/theory-of-relatability-in-real-life.md" %}
 
 #### Goodnight stories format
 
@@ -35,4 +35,8 @@ In the US & all, there is the custom of parents reading books to children just b
 #### Curation
 
 The team carefully curated the stories considering what we wanted the child to hear.
+
+## 
+
+
 
