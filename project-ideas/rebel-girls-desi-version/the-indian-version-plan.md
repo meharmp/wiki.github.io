@@ -8,7 +8,7 @@ Referring back to relatability, It will be more relatable for us to hear about a
 
 ### The plan
 
-Create an Indian version of Rebel Girls. Curate stories create categories & publish.
+The broader plan is like this
 
 1. Make a detailed plan & how we want to publish
 2. Decide on the themes
