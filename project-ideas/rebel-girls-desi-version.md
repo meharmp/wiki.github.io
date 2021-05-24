@@ -24,9 +24,15 @@ The book & the project is already a success. The core principles that made the s
 
 #### Relatability
 
+When 'people like us' do things, we tend to do believe that we too can do that.
+
 {% page-ref page="../philosophy/theory-of-relatability-in-real-life.md" %}
 
-#### Stories format
+#### Goodnight stories format
+
+In the US & all, there is the custom of parents reading books to children just before they sleep, sitting next to the child in the bed. The child tends to be more interested in hearing stories in a good night stories format. 'like long long ago there was this girl who always wanted to fly....'
 
 #### Curation
+
+The team carefully curated the stories considering what we wanted the child to hear.
 
