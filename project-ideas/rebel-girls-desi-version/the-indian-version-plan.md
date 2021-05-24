@@ -19,8 +19,6 @@ Create an Indian version of Rebel Girls. Curate stories create categories & publ
 7. Create marketing strategies
 8. Print book
 
-‌
-
 ### My Involvement
 
 There are N number of projects I wish to see in the world. Even though I wanted to get involved, It's not practically possible to work on a lot of projects at the same time. So generally I tend to find people who wish to do that or I support people who already do that with whatever resource I can contribute.
