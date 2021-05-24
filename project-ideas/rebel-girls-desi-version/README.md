@@ -36,6 +36,14 @@ In the US & all, there is the custom of parents reading books to children just b
 
 The team carefully curated the stories considering what we wanted the child to hear.
 
+## I want to see Indian versions of this idea
+
+I made broader ideas, Check this out. 
+
+{% page-ref page="the-indian-version-plan.md" %}
+
+
+
 ## 
 
 
