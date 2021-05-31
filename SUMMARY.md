@@ -11,6 +11,7 @@
   * [Move out 🏙](people/move-out.md)
   * [Admiration](people/admiration.md)
   * [Hugs](people/hugs.md)
+  * [Letter to S](people/letter-to-s.md)
 * [Social Change](social-change/README.md)
   * [Building a change in your society](social-change/building-a-change-in-your-society.md)
   * [Volunteering](social-change/volunteering/README.md)
