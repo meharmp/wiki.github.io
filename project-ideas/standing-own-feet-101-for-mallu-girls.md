@@ -16,6 +16,9 @@ This could be a portal starting with when to get married or stories and experien
 
 1. Financial independence 101
 2. Dealing with parents
-3. Dealing with log kya kahenge within ourselfs
+3. Dealing with log kya kahenge within ourselvs
 4. The imposter syndrome
+5. Healthy & toxic relationships
+6. Emotional stability
+7. Creating a support system
 
