@@ -54,4 +54,5 @@
   * [Good Night Stories for Rebel Girls](project-ideas/good-night-stories-for-rebel-girls/README.md)
     * [The Indian version plan](project-ideas/good-night-stories-for-rebel-girls/the-indian-version-plan.md)
   * [Standing own feet 101 for Mallu girls](project-ideas/standing-own-feet-101-for-mallu-girls.md)
+  * [The missing semester for life](project-ideas/the-missing-semester-for-life.md)
 
