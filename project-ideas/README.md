@@ -14,3 +14,9 @@ You dont pay for schools in Kerala \( Private schools are really negligible in n
 
 Finding people with a common goal is the only missing part. They will bring the rest of the resources to make a common dream a reality.
 
+{% page-ref page="good-night-stories-for-rebel-girls/" %}
+
+{% page-ref page="standing-own-feet-101-for-mallu-girls.md" %}
+
+
+
