@@ -49,6 +49,7 @@
   * [Rethinking Mementos & Gifts](community/rethinking-mementos-and-gifts.md)
 * [Work](work.md)
 * [Memes \| ചളികൾ &  Fun](memes-or.md)
+* [Book Covers](book-covers.md)
 * [Tech Product Ideas](product-ideas.md)
 * [Social Project Ideas](project-ideas/README.md)
   * [Good Night Stories for Rebel Girls](project-ideas/good-night-stories-for-rebel-girls/README.md)
