@@ -51,7 +51,7 @@
 * [Memes \| ചളികൾ &  Fun](memes-or.md)
 * [Tech Product Ideas](product-ideas.md)
 * [Social Project Ideas](project-ideas/README.md)
-  * [Standing own feet 101 for Mallu girls](project-ideas/standing-own-feet-101-for-mallu-girls.md)
   * [Good Night Stories for Rebel Girls](project-ideas/good-night-stories-for-rebel-girls/README.md)
     * [The Indian version plan](project-ideas/good-night-stories-for-rebel-girls/the-indian-version-plan.md)
+  * [Standing own feet 101 for Mallu girls](project-ideas/standing-own-feet-101-for-mallu-girls.md)
 
