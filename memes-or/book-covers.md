@@ -11,6 +11,7 @@
 9. Mansplinaing like UC plaining
 10. Paavathungalde kashtapadukal aaru kelkkan
 11. Vazhimuttalukalum mattuchila muttalukalum
+12. Sathaanu sathar kakka, muthaanu muneer kaakka
 
 
 
