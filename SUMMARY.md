@@ -51,6 +51,7 @@
 * [Memes | ചളികൾ &  Fun](memes-or/README.md)
   * [Book Covers](memes-or/book-covers.md)
 * [Tech Product Ideas](product-ideas/README.md)
+  * [Ideas without description](product-ideas/ideas-without-description.md)
   * [LoopTube | YouTube Looping Tool](product-ideas/looptube-or-youtube-looping-tool.md)
 * [Social Project Ideas](project-ideas/README.md)
   * [Good Night Stories for Rebel Girls](project-ideas/good-night-stories-for-rebel-girls/README.md)
