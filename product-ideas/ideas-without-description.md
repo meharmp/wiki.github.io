@@ -26,13 +26,11 @@ Apple watch face with shirt design&#x20;
 
 
 
-TH Issues
+**TH Issues**
 
-Small bot to capture spendings Whatsapp / Telegram / Glide App
-
-Instagram comment picker&#x20;
-
-An android TV app that switch tabs in regular intervals
+1. Small bot to capture spendings Whatsapp / Telegram / Glide App
+2. Instagram comment picker&#x20;
+3.  An android TV app that switch tabs in regular intervals
 
 
 
