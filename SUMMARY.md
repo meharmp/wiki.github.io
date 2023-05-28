@@ -22,6 +22,7 @@
   * [Curl up to someone](poems/curl-up-to-someone.md)
   * [Letter to T](poems/letter-to-t.md)
   * [Letter to S](poems/letter-to-s.md)
+  * [Non transactional care അഥവാ വ്യവ്‌ഹാര രഹിത ഇഷ്ടങ്ങൾ](poems/non-transactional-care.md)
   * [Magic](poems/magic.md)
   * [Gazals](poems/gazals/README.md)
     * [Rafta rafta](poems/gazals/rafta-rafta.md)
